@@ -1,4 +1,3 @@
-Portfolio Website
 Description:
 
 This portfolio website is a modern, responsive, and visually appealing personal site built to showcase my skills, projects, and professional background. Utilizing HTML for structure, Tailwind CSS for styling, and JavaScript for interactive elements, this site is designed to provide a seamless user experience across all devices.
